@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./Rocket/*.html","./Rocket/js/*.js"],
+  content: ["./*.html","./js/*.js"],
   theme: {
     extend: {
       screens:{

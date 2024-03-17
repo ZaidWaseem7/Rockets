@@ -4,8 +4,8 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "tailwind": "npx tailwind -i ./src/input.css -o ./Rocket/css/style.css --watch",
-    "prettier": "npx prettier --write ./Rocket/*.html"
+    "tailwind": "npx tailwind -i ./src/input.css -o ./css/style.css --watch",
+    "prettier": "npx prettier --write ./*.html"
   },
   "keywords": [],
   "author": "",
